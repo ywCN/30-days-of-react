@@ -1,3 +1,5 @@
+**每个branch或者day里面有个post.md。知识就在里面**
+
 ## 30 days of react
 
 This repo contains the entire source and content for the article series of [30 days of React](https://www.fullstackreact.com/30-days-of-react) hosted by the Fullstack.io team.
